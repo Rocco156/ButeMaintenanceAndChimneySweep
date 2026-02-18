@@ -21,7 +21,7 @@ function App() {
     <main>
       <h1>Bute Maintenance & Chimney Sweep</h1>
 	  <br />
-      <img src="/transparent-logo.svg" alt="Large logo">
+      <img src="/transparent-logo.svg" alt="Large logo" />
       <ul>
         <li>joinery</li>
 		<li>sweeping</li>
