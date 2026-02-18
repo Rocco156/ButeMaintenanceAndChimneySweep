@@ -20,7 +20,7 @@ function App() {
   return (
     <main>
       <h1>Bute Maintenance & Chimney Sweep</h1>
-	  <br>
+	  <br />
       <link rel="icon" type="image/svg+xml" href="/transparent-logo.svg" />
       <ul>
         <li>joinery</li>
