@@ -27,7 +27,8 @@ function App() {
 	  Nunc pulvinar quis tellus sit amet volutpat. Quisque faucibus purus ex, facilisis suscipit magna convallis fermentum. 
 	  Cras et magna et purus tempor viverra sit amet a turpis. Praesent urna magna, tempor quis est quis, interdum volutpat quam. 
 	  Mauris id scelerisque lectus. Etiam sit amet tempus metus. Quisque venenatis mi vitae nulla egestas feugiat. 
-	  Nam vehicula orci turpis, fermentum tincidunt mi condimentum quis. Curabitur tincidunt libero nec ante ornare tempus." </p>
+	  Nam vehicula orci turpis, fermentum tincidunt mi condimentum quis. Curabitur tincidunt libero nec ante ornare tempus." 
+	  </p>
       <ul>
         <li>joinery</li>
 		<li>sweeping</li>
