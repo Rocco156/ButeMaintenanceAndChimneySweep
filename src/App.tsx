@@ -20,8 +20,8 @@ function App() {
   return (
     <main>
       <h1>Bute Maintenance & Chimney Sweep</h1>
-	  
-      
+	  <br>
+      <img src="/transparent-logo.svg" alt="Italian Trulli">
       <ul>
         <li>joinery</li>
 		<li>sweeping</li>
