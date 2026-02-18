@@ -21,6 +21,11 @@ img {
   width: 500px;
 }
 
+#text_1 {
+  height: 500px;
+  width: 500px;	
+}
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;
