@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
-import type { Schema } from "../amplify/data/resource";
+/*import type { Schema } from "../amplify/data/resource";
 import { generateClient } from "aws-amplify/data";
 
-const client = generateClient<Schema>();
+const client = generateClient<Schema>(); */
 
 function App() {
-  const [todos, setTodos] = useState<Array<Schema["Todo"]["type"]>>([]);
+  /*const [todos, setTodos] = useState<Array<Schema["Todo"]["type"]>>([]);
 
   useEffect(() => {
     client.models.Todo.observeQuery().subscribe({
@@ -15,16 +15,16 @@ function App() {
 
   function createTodo() {
     client.models.Todo.create({ content: window.prompt("Todo content") });
-  }
+  } */
 
   return (
     <main>
       <h1>Bute Maintenance & Chimney Sweep</h1>
-      <button onClick={createTodo}>+ new</button>
+      /*<button onClick={createTodo}>+ new</button> */
       <ul>
-        {todos.map((todo) => (
-          <li key={todo.id}>{todo.content}</li>
-        ))}
+        <li>joinery</li>
+		<li>sweeping</li>
+		<li>General Reapirs</li>
       </ul>
       <div>
         🥳 App successfully hosted. Try creating a new todo.
