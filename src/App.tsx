@@ -30,21 +30,17 @@ function App() {
         <li>Sweeping of woodburners & open fires</li>
 		<li>Servicing and repairs of stoves</li>
 		<li>Certification of servicing, necessary with many house insurance policies</li>
-		<li>Small joinery works carried out by a qualified and experienced joiner (Advanced City & Guilds with over 30 years service) 
-		who offers carpentry skills including working with listed buildings and conservation projects </li>
+		<li>Small joinery works carried out by a qualified and experienced joiner (Advanced City & Guilds with over 30 years service) who offers carpentry skills including working with listed buildings and conservation projects </li>
 		<li>Fencing </li>
 		<li>Lock repairs/replacements </li>
 		<li>Flat Pack Furniture Assembly </li>
 		<li>No job too small </li>
       </ul> <br />
-	  <p id="text_2">We pride ourselves on delivering a reliable, high level of craftsmanship in our local area at reasonable rates. <br />
-		Contact us to discuss your bespoke needs and arrange a no fee quote.</p>
+	  <p id="text_2">We pride ourselves on delivering a reliable, high level of craftsmanship in our local area at reasonable rates. <br />Contact us to discuss your bespoke needs and arrange a no fee quote.</p>
 		
       <div>
 		TelePhone Number: 07733048422
-        <br />
         <p>Email:<a href="mailto:butemaintenance@gmail.com">butemaintenance@gmail.com</a></p>
-          Review next step of this tutorial.
         </a>
       </div>
     </main>
