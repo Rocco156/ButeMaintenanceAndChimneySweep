@@ -1,5 +1,6 @@
 body {
   margin: 150px;
+  margin-top: 500px;
   background: powderblue;
   display: flex;
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
