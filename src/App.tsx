@@ -24,13 +24,12 @@ function App() {
       <h1>Bute Maintenance & Chimney Sweep</h1>
 	  <h2> About Us </h2>
 	  <p id="text_1">Our family run business has expertise stretching back over 30 years. <br />  We offer a professional service covering the Argyll and Bute region. </p>
-	  <br />
 	  <h3> Open Services: </h3>
       <ul>
         <li>Sweeping of woodburners & open fires</li>
 		<li>Servicing and repairs of stoves</li>
 		<li>Certification of servicing, necessary with many house insurance policies</li>
-		<li>Small joinery works carried out by a qualified and experienced joiner (Advanced City & Guilds with over 30 years service) who offers carpentry skills including working with listed buildings and conservation projects </li>
+		<li>Small joinery works carried out by a qualified and experienced joiner <br /> (Advanced City & Guilds with over 30 years service) who offers <br /> carpentry skills including working with listed buildings and conservation projects </li>
 		<li>Fencing </li>
 		<li>Lock repairs/replacements </li>
 		<li>Flat Pack Furniture Assembly </li>
