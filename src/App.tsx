@@ -22,7 +22,7 @@ function App() {
 	  <img src="/transparent-logo.svg" alt="Large logo"/>    
 	  <br />
       <h1>Bute Maintenance & Chimney Sweep</h1>
-	  <h2> About Us </h2>
+	  <h2> About Us</h2>
 	  <p id="text_1">Our family run business has expertise stretching back over 30 years. <br />  We offer a professional service covering the Argyll and Bute region. </p>
 	  <h3> Open Services: </h3>
       <ul>
