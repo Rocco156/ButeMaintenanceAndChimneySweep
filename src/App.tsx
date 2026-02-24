@@ -22,16 +22,28 @@ function App() {
 	  <img src="/transparent-logo.svg" alt="Large logo"/>    
 	  <br />
       <h1>Bute Maintenance & Chimney Sweep</h1>
-	  <p id="text_1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis mi eget tortor blandit, a aliquet lacus bibendum. Duis tempor nisi ac neque sollicitudin, vitae gravida orci consequat. Nunc pulvinar quis tellus sit amet volutpat. Quisque faucibus purus ex, facilisis suscipit magna convallis fermentum. Cras et magna et purus tempor viverra sit amet a turpis. Praesent urna magna, tempor quis est quis, interdum volutpat quam. Mauris id scelerisque lectus. Etiam sit amet tempus metus. Quisque venenatis mi vitae nulla egestas feugiat. Nam vehicula orci turpis, fermentum tincidunt mi condimentum quis. Curabitur tincidunt libero nec ante ornare tempus. </p>
+	  <h2> About Us </h2>
+	  <p id="text_1">Our family run business has expertise stretching back over 30 years. <br />  We offer a professional service covering the Argyll and Bute region. </p>
+	  <br />
+	  <h3> Open Services: </h3>
       <ul>
-        <li>joinery</li>
-		<li>sweeping</li>
-		<li>General Reapirs</li>
-      </ul>
+        <li>Sweeping of woodburners & open fires</li>
+		<li>Servicing and repairs of stoves</li>
+		<li>Certification of servicing, necessary with many house insurance policies</li>
+		<li>Small joinery works carried out by a qualified and experienced joiner (Advanced City & Guilds with over 30 years service) 
+		who offers carpentry skills including working with listed buildings and conservation projects </li>
+		<li>Fencing </li>
+		<li>Lock repairs/replacements </li>
+		<li>Flat Pack Furniture Assembly </li>
+		<li>No job too small </li>
+      </ul> <br />
+	  <p id="text_2">We pride ourselves on delivering a reliable, high level of craftsmanship in our local area at reasonable rates. <br />
+		Contact us to discuss your bespoke needs and arrange a no fee quote.</p>
+		
       <div>
-        🥳 App successfully hosted. Try creating a new todo.
+		TelePhone Number: 07733048422
         <br />
-        <a href="https://docs.amplify.aws/react/start/quickstart/#make-frontend-updates">
+        <p>Email:<a href="mailto:butemaintenance@gmail.com">butemaintenance@gmail.com</a></p>
           Review next step of this tutorial.
         </a>
       </div>
