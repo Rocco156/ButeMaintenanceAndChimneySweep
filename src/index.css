@@ -1,5 +1,5 @@
 body {
-  margin: 250px;
+  margin: 150px;
   background: powderblue;
   display: flex;
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
@@ -21,6 +21,10 @@ img {
 
 #text_1 {
   width: 500px;	
+}
+
+h2 {
+	align-content: center;
 }
 
 button {
@@ -49,12 +53,7 @@ ul {
 }
 
 li {
-  background-color: white;
   padding: 8px;
-}
-
-li:hover {
-  background: #dadbf9;
 }
 
 a {

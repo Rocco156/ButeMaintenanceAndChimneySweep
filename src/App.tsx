@@ -38,7 +38,7 @@ function App() {
 	  <p id="text_2">We pride ourselves on delivering a reliable, high level of craftsmanship in our local area at reasonable rates. <br />Contact us to discuss your bespoke needs and arrange a no fee quote.</p>
 		
       <div>
-		TelePhone Number: 07733048422
+		Telephone Number: 07733048422
         <p>Email:<a href="mailto:butemaintenance@gmail.com">butemaintenance@gmail.com</a></p>
       </div>
     </main>
