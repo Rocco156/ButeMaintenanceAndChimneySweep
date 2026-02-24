@@ -41,7 +41,6 @@ function App() {
       <div>
 		TelePhone Number: 07733048422
         <p>Email:<a href="mailto:butemaintenance@gmail.com">butemaintenance@gmail.com</a></p>
-        </a>
       </div>
     </main>
   );
